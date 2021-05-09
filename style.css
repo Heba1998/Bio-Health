@@ -1,0 +1,38 @@
+header{
+    background-color: rgba(26, 88, 170, 0.836);
+}
+h1{
+    background-color:white;
+height: 100px;
+text-align: center;
+line-height:90px;
+font-family: 'Oswald', sans-serif;
+color:rgba(32, 43, 58, 0.836) ;
+    font-size: 60px;
+}
+
+h4{
+    background-color: white;
+    line-height: 40px;
+    height: 35px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    color:rgba(32, 43, 58, 0.836) ;
+}
+
+header img{
+    float: right;
+    margin: 20px 40px;
+}
+.div1 {
+    height: 400px;
+    text-align: center;
+    margin: 50px 10px;
+    color: white;
+    font-size: 20px;
+}
+
+#p1{
+    font-weight: bold;
+
+}
